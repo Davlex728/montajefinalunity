@@ -8,6 +8,7 @@ public class SceneTrigger : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log("¡Algo ha chocado conmigo: " + other.name + "!");
         if (!other.CompareTag("Player")) return;
 
         // Guardar posición para la próxima escena
