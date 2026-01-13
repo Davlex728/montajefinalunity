@@ -5,7 +5,20 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Main.unity
     guid: a2b58d8c2e473104380da39b8eb2a7e5
+  - enabled: 1
+    path: Assets/Scenes/Carla.unity
+    guid: 4ad824f0280153244bf972e36a337a0a
+  - enabled: 1
+    path: Assets/Scenes/Alex.unity
+    guid: f4b49a8c91520164bbdbdc9d22678c4d
+  - enabled: 1
+    path: Assets/Scenes/Joan.unity
+    guid: 81a3c6498f2d1f94a8f62fdbf65b3a23
+  - enabled: 1
+    path: Assets/Scenes/Sergio.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
